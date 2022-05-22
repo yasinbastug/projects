@@ -1,0 +1,3 @@
+[submodule "cryptozombies-lesson-code"]
+	path = cryptozombies-lesson-code
+	url = https://github.com/loomnetwork/cryptozombies-lesson-code.git
